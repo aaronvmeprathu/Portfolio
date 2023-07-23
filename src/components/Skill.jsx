@@ -35,7 +35,7 @@ function Skill() {
         <div>
           <h6 className='fw-semibold py-3'>FRONT END</h6>
         {skills.map((skill) => ( 
-          <Row className='column-gap-2'>
+          <Row className='column-gap-2 pt-4'>
             <Col lg={2} md={2}  sm={2}>
             <p className='text-wrap'>{skill.title}</p>
             </Col>
