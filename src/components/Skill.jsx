@@ -31,7 +31,7 @@ function Skill() {
 
  
   return (
-    <div className='skill p-4 rounded-4 m-2'>
+    <div className='skill p-4 rounded-4 m-2 '>
         <div>
           <h6 className='fw-semibold py-3'>FRONT END</h6>
         {skills.map((skill) => ( 
