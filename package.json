@@ -1,6 +1,6 @@
 {
   "name": "staticapp",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "homepage": "https://aaronvmeprathu.github.io/Portfolio",
   "type": "module",
